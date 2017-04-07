@@ -1,6 +1,9 @@
 # Cinematic Script
 
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=fx9zXzo5EmE
+" target="_blank"><img src="http://img.youtube.com/vi/fx9zXzo5EmE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="1280" height="720" border="10" /></a>
 
 GTANetwork Cinematic Script
 ```
