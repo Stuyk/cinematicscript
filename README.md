@@ -29,4 +29,5 @@ P = Focus on Player
 } = Focus on Vehicle
 < or > = Decrease or Increase Camera Speed
 F11 = Animate Between All Cameras
+F9 = Hide Markers
 ```
